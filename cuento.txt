@@ -7,3 +7,5 @@ verificando los cambios realizados y comprendiendo sourcetree
 hacer commit con comentarios
 
 nuevas ramas quse unen a la master
+
+cambio realizado directamente en la pagina
